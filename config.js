@@ -11,7 +11,7 @@ module.exports = {
   author: 'Christian Hein',
   githubUrl: 'https://github.com/chrishein/chrishein-blog',
   // replace this by the url where your website will be published
-  siteUrl: 'http://localhost:8000',
+  siteUrl: 'https://chrishein-blog.netlify.app/',
   social: {
     // leave the social media you do not want to appear as empty strings
     twitter: 'danskersen',
