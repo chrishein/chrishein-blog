@@ -1,14 +1,14 @@
 module.exports = {
   // the name of your website
-  title: 'Christian Hein',
+  title: "Christian's Blog",
   // the description of the website (eg. what shows on Google)
-  description: "Christian Hein's blog",
+  description: "Christian's blog",
   // a short bio shown at the bottom of your blog posts
   // It should complete the sentence: Written by Christian Hein ...
   shortBio: '',
   // a longer bio showing on the landing page of the blog
   bio: `Software Engineer.`,
-  author: 'Christian Hein',
+  author: 'Christian H',
   githubUrl: 'https://github.com/chrishein/chrishein-blog',
   // replace this by the url where your website will be published
   siteUrl: 'https://chrishein-blog.netlify.app/',
